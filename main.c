@@ -46,12 +46,12 @@ int main() {
                     printf("Ваше число меньше загаданного!\n");
 
                 }
-                else {
+                else
+                {
                     printf("Ваше число больше загаданного!\n");
 
                 }
             }
         }
-    printf("\n");
     return flag;
 }
